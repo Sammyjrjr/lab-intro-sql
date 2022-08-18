@@ -17,4 +17,4 @@ select * from sakila.staff_list;
 select distinct id ,name from sakila.staff_list; -- i put the id to know how many person are.
 -- 5.3 Return a list of employee first names only?
 select * from sakila.staff_list;
-(I don't know)
+select * first name from staff_list;
